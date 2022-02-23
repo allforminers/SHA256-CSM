@@ -4,14 +4,6 @@
 This is all the things great about NOMP, now with modern style and design of BootStrap 4! Having disliked the previous UI, due to cramping, little to no info displayed while what is displayed is not very helpful to users. I decided to fork a already great project, and add some stylistic touches it severely needs. I would of considered requesting pulls to the main branch, though with such heavy changes to the project, I decided a hard fork would be well suited. But if you would like to contribute, please consider looking at the [original project](https://github.com/foxer666/node-open-mining-portal) first, as these guys are the ones who helped get this NOMP rebirthing process started.
 
 -------
-### Node Open Mining Portal consists from 3 main modules:
-* [NOMP](https://github.com/realcoin-rea/rea-nomp)
-* [Stratum Pool](https://github.com/realcoin-rea/node-stratum-pool)
-* [Node Multihashing](https://github.com/realcoin-rea/node-multi-hashing)
-
-_Add new algorithms using [Node Multihashing](https://github.com/realcoin-rea/node-multi-hashing)._
-
-Current version: v1.1.3
 
 -------
 ### Recommended Dependencies/Setup Ubuntu 18.04

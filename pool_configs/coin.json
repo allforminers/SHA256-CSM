@@ -2,10 +2,10 @@
     "enabled": true,
     "coin": "coin.json",
 
-    "address": "RGw8uwVU9tZcSJBCxLopFCrZxK11ptstjf",
+    "address": "ofALQKQoPrftuR5pCenuovZcuE4tFChX6s",
 
     "rewardRecipients": {
-        "RT1yN61iGKD1qGumLDb4tNzUEgYFwyusz6": 1.0
+        "oP3LEoEWWUTtDwaacRguCX7jURsX5KdXTJ": 1.0
     },
 
     "paymentProcessing": {
@@ -18,9 +18,9 @@
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 26913,
-            "user": "rpcuser",
-            "password": "rpcpassword"
+            "port": 5788,
+            "user": "uniq1fgbdgfMJDJHD",
+            "password": "uniq2DASMDDDf"
         }
     },
 
@@ -51,14 +51,14 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 26913,
-            "user": "rpcuser",
-            "password": "rpcpassword"
+            "port": 5788,
+            "user": "uniq1fgbdgfMJDJHD",
+            "password": "uniq2DASMDDDf"
         }
     ],
 
     "p2p": {
-        "enabled": true,
+        "enabled": false,
         "host": "127.0.0.1",
         "port": 26914,
         "disableTransactions": true
