@@ -1,6 +1,6 @@
 {
-    "enabled": false,
-    "coin": "realcoin.json",
+    "enabled": true,
+    "coin": "coin.json",
 
     "address": "RGw8uwVU9tZcSJBCxLopFCrZxK11ptstjf",
 

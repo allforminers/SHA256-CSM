@@ -1,0 +1,12 @@
+{
+    "name": "RealCoin",
+    "symbol": "REA",
+    "algorithm": "sha256csm",
+    "peerMagic": "2a8cbd1e",
+    "peerMagicTestnet": "b591a437",
+    "explorerGetBlockJSON": "http://explorer.real-coin.in/api/getblock?hash=",
+    "explorerGetBlock": "http://explorer.real-coin.in/block/",
+    "explorerGetTX": "http://explorer.real-coin.in/api/getrawtransaction?txid={0}&decrypt=1",
+    "txfee": 0.0001,
+    "blockTime": 120
+}
