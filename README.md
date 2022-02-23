@@ -35,8 +35,8 @@ sudo apt-get install -y nodejs
 -------
 ### Install
 ```
-git clone https://github.com/realcoin-rea/rea-nomp.git
-cd rea-nomp
+git clone https://github.com/allforminers/SHA256-CSM.git nomp
+cd nomp
 npm install
 npm start
 ```
